@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/madhvpruthi/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/madhvpruthi/LEETCODE/tree/master/0035-search-insert-position) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhvpruthi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0118-pascals-triangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhvpruthi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/madhvpruthi/LEETCODE/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
