@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/madhvpruthi/LEETCODE/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/madhvpruthi/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madhvpruthi/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0374-guess-number-higher-or-lower](https://github.com/madhvpruthi/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [1382-balance-a-binary-search-tree](https://github.com/madhvpruthi/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0118-pascals-triangle) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/madhvpruthi/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
