@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhvpruthi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhvpruthi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/madhvpruthi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/madhvpruthi/LEETCODE/tree/master/0389-find-the-difference) |
 | [0997-find-the-town-judge](https://github.com/madhvpruthi/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhvpruthi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
@@ -121,8 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhvpruthi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhvpruthi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/madhvpruthi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/madhvpruthi/LEETCODE/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/madhvpruthi/LEETCODE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/madhvpruthi/LEETCODE/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/madhvpruthi/LEETCODE/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
