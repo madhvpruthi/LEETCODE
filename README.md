@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/madhvpruthi/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/madhvpruthi/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0976-largest-perimeter-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/madhvpruthi/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhvpruthi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/madhvpruthi/LEETCODE/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/madhvpruthi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/madhvpruthi/LEETCODE/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/madhvpruthi/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
