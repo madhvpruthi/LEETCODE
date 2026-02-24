@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/madhvpruthi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/madhvpruthi/LEETCODE/tree/master/0645-set-mismatch) |
+| [0706-design-hashmap](https://github.com/madhvpruthi/LEETCODE/tree/master/0706-design-hashmap) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/madhvpruthi/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/madhvpruthi/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0976-largest-perimeter-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/madhvpruthi/LEETCODE/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/madhvpruthi/LEETCODE/tree/master/0645-set-mismatch) |
+| [0706-design-hashmap](https://github.com/madhvpruthi/LEETCODE/tree/master/0706-design-hashmap) |
 | [0997-find-the-town-judge](https://github.com/madhvpruthi/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhvpruthi/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -179,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/madhvpruthi/LEETCODE/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/madhvpruthi/LEETCODE/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/madhvpruthi/LEETCODE/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
