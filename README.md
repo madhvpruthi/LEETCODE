@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhvpruthi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/madhvpruthi/LEETCODE/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/madhvpruthi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/madhvpruthi/LEETCODE/tree/master/0303-range-sum-query-immutable) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/madhvpruthi/LEETCODE/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/madhvpruthi/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/madhvpruthi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhvpruthi/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/madhvpruthi/LEETCODE/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0189-rotate-array) |
 | [0976-largest-perimeter-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhvpruthi/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
