@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/madhvpruthi/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhvpruthi/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/madhvpruthi/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/madhvpruthi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/madhvpruthi/LEETCODE/tree/master/0645-set-mismatch) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/madhvpruthi/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/madhvpruthi/LEETCODE/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhvpruthi/LEETCODE/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/madhvpruthi/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
