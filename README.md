@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhvpruthi/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/madhvpruthi/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/madhvpruthi/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/madhvpruthi/LEETCODE/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhvpruthi/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhvpruthi/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/madhvpruthi/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 ## Prefix Sum
 |  |
 | ------- |
