@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/madhvpruthi/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/madhvpruthi/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhvpruthi/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/madhvpruthi/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhvpruthi/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/madhvpruthi/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhvpruthi/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
