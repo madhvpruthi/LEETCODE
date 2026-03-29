@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madhvpruthi/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/madhvpruthi/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/madhvpruthi/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/madhvpruthi/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
