@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhvpruthi/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhvpruthi/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/madhvpruthi/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/madhvpruthi/LEETCODE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhvpruthi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -354,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
