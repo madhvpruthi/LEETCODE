@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhvpruthi/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhvpruthi/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/madhvpruthi/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhvpruthi/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/madhvpruthi/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhvpruthi/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/madhvpruthi/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1382-balance-a-binary-search-tree](https://github.com/madhvpruthi/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/madhvpruthi/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhvpruthi/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhvpruthi/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhvpruthi/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhvpruthi/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/madhvpruthi/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhvpruthi/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhvpruthi/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
