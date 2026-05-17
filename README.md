@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/madhvpruthi/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/madhvpruthi/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1306-jump-game-iii](https://github.com/madhvpruthi/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhvpruthi/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhvpruthi/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/madhvpruthi/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/madhvpruthi/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/madhvpruthi/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1306-jump-game-iii](https://github.com/madhvpruthi/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/madhvpruthi/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/madhvpruthi/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/madhvpruthi/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/madhvpruthi/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1306-jump-game-iii](https://github.com/madhvpruthi/LEETCODE/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
