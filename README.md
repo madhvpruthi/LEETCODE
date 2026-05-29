@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhvpruthi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/madhvpruthi/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/madhvpruthi/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhvpruthi/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhvpruthi/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/madhvpruthi/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhvpruthi/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
