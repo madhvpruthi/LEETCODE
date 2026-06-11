@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/madhvpruthi/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/madhvpruthi/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/madhvpruthi/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/madhvpruthi/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1306-jump-game-iii](https://github.com/madhvpruthi/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/madhvpruthi/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhvpruthi/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/madhvpruthi/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhvpruthi/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
