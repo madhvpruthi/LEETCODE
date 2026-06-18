@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhvpruthi/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/madhvpruthi/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/madhvpruthi/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhvpruthi/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
