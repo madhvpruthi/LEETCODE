@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/madhvpruthi/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/madhvpruthi/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/madhvpruthi/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/madhvpruthi/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhvpruthi/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/madhvpruthi/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/madhvpruthi/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/madhvpruthi/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/madhvpruthi/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhvpruthi/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/madhvpruthi/LEETCODE/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/madhvpruthi/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
