@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/madhvpruthi/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/madhvpruthi/LEETCODE/tree/master/0706-design-hashmap) |
 | [0997-find-the-town-judge](https://github.com/madhvpruthi/LEETCODE/tree/master/0997-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/madhvpruthi/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/madhvpruthi/LEETCODE/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhvpruthi/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhvpruthi/LEETCODE/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/madhvpruthi/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/madhvpruthi/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhvpruthi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/madhvpruthi/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/madhvpruthi/LEETCODE/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madhvpruthi/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/madhvpruthi/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/madhvpruthi/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/madhvpruthi/LEETCODE/tree/master/1871-jump-game-vii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/madhvpruthi/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
