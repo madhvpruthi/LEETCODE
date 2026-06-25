@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/madhvpruthi/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhvpruthi/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/madhvpruthi/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhvpruthi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/madhvpruthi/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/madhvpruthi/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/madhvpruthi/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhvpruthi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/madhvpruthi/LEETCODE/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/madhvpruthi/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -491,8 +496,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3161-block-placement-queries](https://github.com/madhvpruthi/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
