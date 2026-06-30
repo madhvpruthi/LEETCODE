@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/madhvpruthi/LEETCODE/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhvpruthi/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhvpruthi/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhvpruthi/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/madhvpruthi/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/madhvpruthi/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/madhvpruthi/LEETCODE/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madhvpruthi/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/madhvpruthi/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhvpruthi/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/madhvpruthi/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/madhvpruthi/LEETCODE/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/madhvpruthi/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhvpruthi/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/madhvpruthi/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhvpruthi/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhvpruthi/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/madhvpruthi/LEETCODE/tree/master/1871-jump-game-vii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/madhvpruthi/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
