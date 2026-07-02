@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/madhvpruthi/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/madhvpruthi/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/madhvpruthi/LEETCODE/tree/master/3161-block-placement-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/madhvpruthi/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhvpruthi/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/madhvpruthi/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/madhvpruthi/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/madhvpruthi/LEETCODE/tree/master/1345-jump-game-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/madhvpruthi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/madhvpruthi/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/madhvpruthi/LEETCODE/tree/master/0997-find-the-town-judge) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/madhvpruthi/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/madhvpruthi/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhvpruthi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/madhvpruthi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/madhvpruthi/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Linked List
 |  |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhvpruthi/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/madhvpruthi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/madhvpruthi/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -531,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/madhvpruthi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/madhvpruthi/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
