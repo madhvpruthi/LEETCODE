@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/madhvpruthi/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/madhvpruthi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/madhvpruthi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/madhvpruthi/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/madhvpruthi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/madhvpruthi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/madhvpruthi/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/madhvpruthi/LEETCODE/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/madhvpruthi/LEETCODE/tree/master/0897-increasing-order-search-tree) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/madhvpruthi/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/madhvpruthi/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhvpruthi/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/madhvpruthi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/madhvpruthi/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/madhvpruthi/LEETCODE/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhvpruthi/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/madhvpruthi/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/madhvpruthi/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhvpruthi/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/madhvpruthi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
