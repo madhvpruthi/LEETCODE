@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/madhvpruthi/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/madhvpruthi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/madhvpruthi/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/madhvpruthi/LEETCODE/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhvpruthi/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/madhvpruthi/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/madhvpruthi/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/madhvpruthi/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/madhvpruthi/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/madhvpruthi/LEETCODE/tree/master/0242-valid-anagram) |
