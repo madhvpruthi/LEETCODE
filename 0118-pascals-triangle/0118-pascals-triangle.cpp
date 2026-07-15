@@ -3,15 +3,15 @@ public:
     vector<vector<int>> generate(int numRows) {
         if (numRows == 0) return {};
         if (numRows == 1) return {{1}};
-        
-        vector<vector<int>> prevRows = generate(numRows - 1);
-        vector<int> newRow(numRows, 1);
-        
+        vector<vector<int>> prevrows = generate(numRows - 1);
+        vector<int> newrow(numRows, 1);
+
         for (int i = 1; i < numRows - 1; i++) {
-            newRow[i] = prevRows.back()[i - 1] + prevRows.back()[i];
+
+            newrow[i] = prevrows.back()[i - 1] + prevrows.back()[i];
         }
+        prevrows.push_back(newrow);
+        return prevrows;
         
-        prevRows.push_back(newRow);
-        return prevRows;
     }
 };
