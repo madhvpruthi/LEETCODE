@@ -3,21 +3,20 @@ public:
     int mySqrt(int x) {
         if(x==0) return x;
 
-        int first =1; 
-        int last = x;
-        while(first<=last){
-            int mid = first+(last-first)/2;
-
+        int f = 1;
+        int l = x;
+         while( f<=l){
+            int mid = f+(l-f)/2;
             if(mid == x/mid){
-                return mid ;
+                return mid;
             }
-            else if(mid> x/mid){
-                last = mid-1;
+            else if(mid>x/mid){
+                l=mid-1;
             }
             else{
-                first=mid+1;
-            }
-        }
-        return last;
+                f=mid+1;
+         }
+         }
+         return l;
     }
 };
