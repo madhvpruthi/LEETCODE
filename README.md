@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/madhvpruthi/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/madhvpruthi/LEETCODE/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/madhvpruthi/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/madhvpruthi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/madhvpruthi/LEETCODE/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/madhvpruthi/LEETCODE/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/madhvpruthi/LEETCODE/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/madhvpruthi/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/madhvpruthi/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/madhvpruthi/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhvpruthi/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/madhvpruthi/LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhvpruthi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/madhvpruthi/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
