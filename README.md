@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/madhvpruthi/LEETCODE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/madhvpruthi/LEETCODE/tree/master/0035-search-insert-position) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madhvpruthi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/madhvpruthi/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/madhvpruthi/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhvpruthi/LEETCODE/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhvpruthi/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/madhvpruthi/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/madhvpruthi/LEETCODE/tree/master/0189-rotate-array) |
