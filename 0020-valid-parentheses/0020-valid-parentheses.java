@@ -1,7 +1,6 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character>stack = new Stack<>();
-        
+        Stack<Character> stack = new Stack<>();
         HashMap<Character, Character> mapping = new HashMap<>();
         mapping.put(')', '(');
         mapping.put('}', '{');
@@ -11,13 +10,13 @@ class Solution {
             if(!mapping.containsKey(c)){
                 stack.push(c);
             }
-            else if (!stack.isEmpty() && mapping.get(c) == stack.peek()) {
+            else if (!stack.isEmpty() && mapping.get(c) == stack.peek()){
                 stack.pop();
             }
-            else{
+            else {
                 return false;
             }
         }
         return stack.isEmpty();
-        }
+    }
 }
